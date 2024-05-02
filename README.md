@@ -1,9 +1,10 @@
 # quadratic-bifurcation-cobweb
 The python code I wrote to create various diagrams in my paper about symbolic dynamics.
 The idea of symbolic dynamics is roughly to translate a complicated dynamical system into the language of easily manipulated symbols.
-
 The interesting plots are the bifurcation and cobweb diagrams, although there is one other dile which illustrates the relation to the cantor set.
+
 Wikipedia is a great place to learn about these things:
+
       https://en.wikipedia.org/wiki/Symbolic_dynamics
       https://en.wikipedia.org/wiki/Bifurcation_diagram
       https://en.wikipedia.org/wiki/Cobweb_plot
